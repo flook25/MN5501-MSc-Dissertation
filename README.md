@@ -39,7 +39,7 @@ The project is divided into four key analytical phases:
 ## System Architecture
 
 <div align="center">
-<img src="assets/experimental_setup.png" width="800" alt="Physical Experimental Setup"/>
+<img src="assets/experimental_setup.jpg" width="800" alt="Physical Experimental Setup"/>
 <br/>
 <i>Physical implementation of the 4-channel VL6180X ToF sensor array and the custom 3D-printed linear guide mechanism.</i>
 </div>
@@ -74,7 +74,7 @@ Academic Supervisor
 ├── assets/
 │   ├── brunel.png                # University Logo
 │   ├── Yohan.jpeg                # Advisor Image
-│   ├── experimental_setup.png    # Physical hardware setup image
+│   ├── experimental_setup.jpg    # Physical hardware setup image
 │   ├── circuit_diagram.png       # Hardware schematic layout
 │   └── coordinate_model.png      # Geometric transformation model
 ├── Dissertation_Kittitouch.pdf   # Full MSc Dissertation Report
